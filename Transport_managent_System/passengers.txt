@@ -1,0 +1,2 @@
+Ingabire	Nyanza	3000	2
+OLivier	Huye	4000	7
